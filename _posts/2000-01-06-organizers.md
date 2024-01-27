@@ -1,10 +1,13 @@
 ---
-title: "contact"
+title: "organizers"
 bg: turquoise
 color: black
 fa-icon: user
+style: center
 ---
 
-# Contact
+# Organizers
 
-list organizers here
+Contest director: [Dr. Brent Yorgey](mailto:yorgey@hendrix.edu)
+
+Judges: Gabe Foust, Brent Yorgey
