@@ -11,8 +11,9 @@ below.  If you have multiple teams, you should fill out the
 registration form once for each team.
 
 The registration fee of $35 per student includes lunch in the
-award-winning Hendrix Caf for the students and their coach/sponsor, as
-well as snacks during the contest.
+award-winning Hendrix Caf for the students and their coach/sponsor,
+snacks during the contest, and prizes for the winning teams in each
+division.
 
 The registration deadline is **Friday, March 15**.
 
