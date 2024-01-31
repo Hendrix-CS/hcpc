@@ -11,6 +11,8 @@ timezone: "America/Chicago"
 lsi: false
 markdown: kramdown
 
+source_link: https://github.com/hendrix-CS/hcpc
+
 
 ### content configuration ###
 title:       "Hendrix College Programming Contest"
@@ -28,7 +30,7 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#f5822a'
   turquoise: '#0fbfcf'
 
 kramdown:
