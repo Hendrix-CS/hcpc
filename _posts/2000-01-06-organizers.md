@@ -12,11 +12,13 @@ style: center
 
 ## Contest judges
 
-Gabe Foust
+Gabe Foust (Harding)
 
-Eric Pinter
+Eric Pinter '21
 
-Brent Yorgey
+Ryan Rose '17
+
+Brent Yorgey (Hendrix)
 
 ## With help from
 
