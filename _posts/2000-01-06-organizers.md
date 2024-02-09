@@ -14,9 +14,9 @@ style: center
 
 Gabe Foust (Harding)
 
-Eric Pinter '21
+Eric Pinter (Hendrix '21)
 
-Ryan Rose '17
+Ryan Rose (Hendrix '17)
 
 Brent Yorgey (Hendrix)
 
