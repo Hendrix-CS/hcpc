@@ -22,8 +22,16 @@ Brent Yorgey (Hendrix)
 
 ## With help from
 
-Tim Purkiss
+Tim Purkiss (event planning)
 
-Jeremy Dickerson
+Jeremy Dickerson (registration system)
 
-Hendrix Computer Science Club
+Amy Forbus (PR & design)
+
+## Student volunteers
+
+Jacob Collier-Tenison
+
+Amelia Jones
+
+Zoie Keys
