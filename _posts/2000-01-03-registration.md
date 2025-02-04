@@ -6,20 +6,17 @@ fa-icon: list-ul
 style: center
 ---
 
-Registration is not open yet.  When it opens, you will be able to
-register teams of up to 3 students each.
+You may register teams of up to 3 students by clicking the link
+below.  If you have multiple teams, you should fill out the
+registration form once for each team.
 
-<!-- You may register teams of up to 3 students by clicking the link -->
-<!-- below.  If you have multiple teams, you should fill out the -->
-<!-- registration form once for each team. -->
+The registration fee of $35 per student includes contest entry, lunch
+in the award-winning Hendrix Caf for the students and their
+coach/sponsor, snacks during the contest, and prizes for the winning
+teams in each division.
 
-<!-- The registration fee of $35 per student includes lunch in the -->
-<!-- award-winning Hendrix Caf for the students and their coach/sponsor, -->
-<!-- snacks during the contest, and prizes for the winning teams in each -->
-<!-- division. -->
+The registration deadline is **Monday, March 3**.
 
-<!-- The registration deadline is **TBD**. -->
-
-<!-- <a href="https://apply.hendrix.edu/register/?id=43d29ff5-68af-497f-b110-23d735909a7a" class="button">Register</a> -->
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=jMH2DNLQP0qD0GY9Ygpj0wCfIzg4HPlEnDqsmdh39c9UN0gzTkpOT0dKMDNaSFQ5NTE0OE1PTEJHQy4u" class="button">Register</a>
 
 <img src="img/HDXb24.jpg" />
