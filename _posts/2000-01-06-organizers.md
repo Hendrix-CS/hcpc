@@ -12,7 +12,7 @@ style: center
 
 ## Contest judges
 
-Eric Pinter (Hendrix '21)
+Eric Pinter (Hendrix '21)  
 Brent Yorgey (Hendrix)
 
 ## With help from
