@@ -13,12 +13,12 @@ style: center
 ## Contest judges
 
 Eric Pinter (Hendrix '21)  
+Gabe Foust (Harding)  
 Brent Yorgey (Hendrix)
 
 ## With help from
 
-Tim Purkiss (event planning)
-
-Amy Forbus (PR & design)
+Tim Purkiss (event planning)  
+Courtney Martin (design)
 
 ## Student volunteers
