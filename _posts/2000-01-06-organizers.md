@@ -21,4 +21,7 @@ Brent Yorgey (Hendrix)
 Tim Purkiss (event planning)  
 Courtney Martin (design)
 
-## Student volunteers
+## Student volunteers + workers
+
+Allyna Bright  
+Zoie Keys
