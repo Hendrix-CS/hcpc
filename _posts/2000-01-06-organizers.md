@@ -19,9 +19,6 @@ Brent Yorgey (Hendrix)
 ## With help from
 
 Tim Purkiss (event planning)  
-Courtney Martin (design)
-
-## Student volunteers + workers
-
+Courtney Martin (design)  
 Allyna Bright  
 Zoie Keys
