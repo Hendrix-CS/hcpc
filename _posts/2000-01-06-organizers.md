@@ -21,4 +21,6 @@ Brent Yorgey (Hendrix)
 Tim Purkiss (event planning)  
 Courtney Martin (design)  
 Allyna Bright  
+Bryson DeLozier  
+Dylan Doudt  
 Zoie Keys
